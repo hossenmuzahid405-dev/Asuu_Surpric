@@ -1,0 +1,6 @@
+{
+  "name": "ASUU — A Little Surprise ❤️",
+  "description": "An interactive surprise web app specially made for ASUU with 13 memory photo slots, audio player, glassmorphism cards, and heartfelt interactive reveals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
